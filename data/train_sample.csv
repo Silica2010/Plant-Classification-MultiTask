@@ -1,0 +1,7 @@
+image_path,species,status
+images/tomato_0001.jpg,tomato,healthy
+images/tomato_0002.jpg,tomato,nitrogen_deficiency
+images/pepper_0001.jpg,pepper,healthy
+images/lettuce_0001.jpg,lettuce,pest
+images/cucumber_0001.jpg,cucumber,drought
+images/wheat_0001.jpg,wheat,fungal_disease

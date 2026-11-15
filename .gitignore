@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+runs/
+data/images/
+.DS_Store
+Thumbs.db

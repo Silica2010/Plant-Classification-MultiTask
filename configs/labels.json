@@ -1,0 +1,20 @@
+{
+  "species2idx": {
+    "tomato": 0,
+    "pepper": 1,
+    "lettuce": 2,
+    "cucumber": 3,
+    "wheat": 4
+  },
+  "status2idx": {
+    "healthy": 0,
+    "fungal_disease": 1,
+    "pest": 2,
+    "nitrogen_deficiency": 3,
+    "drought": 4
+  },
+  "notes": {
+    "species_cn": ["番茄", "辣椒", "生菜", "黄瓜", "小麦"],
+    "status_cn": ["健康", "真菌病害", "虫害", "缺氮", "干旱"]
+  }
+}
